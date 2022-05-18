@@ -86,3 +86,22 @@ body{
          margin: auto;
          transition: 0.5s;
 }
+.topnav a:hover::after{
+    width: 100%;
+  }
+  
+.topnav a.active {
+    color: white;
+  }
+.active:first-of-type{margin-left: 40%;}
+
+.title{padding-top: 150px;
+    font-size: 35px;
+    font-style:bold}
+.big{font-size: 55px;
+text-align: center;
+margin-top: 50px;
+padding-top: 50px;}
+.cen{text-align: center;}
+.box{width: 40%;
+    }
