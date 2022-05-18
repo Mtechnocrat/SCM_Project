@@ -105,3 +105,22 @@ padding-top: 50px;}
 .cen{text-align: center;}
 .box{width: 40%;
     }
+    .box2{width: 18%;
+        height: 250px;
+        border: solid 2px cornsilk;
+        border-radius: 18px;
+        margin: 0% 2% 0% 2%;
+        padding-left:5px ;
+        padding-right: 5px;
+        background-color: cornsilk;
+        box-shadow: 2px 2px rgb(92, 90, 90);}
+    .box3{width: 22%;
+        margin-right:3px ;
+        height: 250px;}
+    .box3:first-of-type{margin-left: 80px;}
+    .box3:hover .image {
+        opacity: 0.3;}
+    .box3:hover .middle {
+        opacity: 1;}
+    .box3 img{height: 100%;
+        width: 100%;}
