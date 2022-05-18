@@ -1,0 +1,11 @@
+body{
+    background-image: url();
+    font-family: 'Baloo Bhai 2', cursive;
+    background-size: cover;
+    width: 100%;
+    height: 640px;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    background-color: white;
+    color: black;
+    }
